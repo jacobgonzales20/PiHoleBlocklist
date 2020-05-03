@@ -3,17 +3,6 @@
 # Description: This is a blocklist to block is the blocklist i use on my pi hole it's for convenience so i try to not block to much stuff as sometimes some pages won't load/break etc. This also means i do miss some blocking domains.
 # Please help with collecting domains!
 
-# Mobile Games
-ads.mopub.com
-ads.nexage.com
-moatads.com
-tenjin.io
-voodoo-analytics.io
-vungle.com
-splash-screen.voodoo-ads.io	
-wv.inner-active.mobi
-track.tenjin.io
-
 # Amazon
 s.amazon-adsystem.com
 mads.amazon-adsystem.com
@@ -34,6 +23,21 @@ upu.samsungelectronics.com
 zpu.samsungelectronics.com
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
+
+# Facebook 
+graph.facebook.com
+
+# Mobile Games
+ads.mopub.com
+ads.nexage.com
+moatads.com
+tenjin.io
+voodoo-analytics.io
+vungle.com
+splash-screen.voodoo-ads.io	
+wv.inner-active.mobi
+track.tenjin.io
+ws.tapjoyads.com
 
 # Ads
 ad-pub.terra.com.br
