@@ -27,6 +27,43 @@ zpu.samsungelectronics.com
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 
+# Ads
+ad-pub.terra.com.br
+ad.batanga.com
+ad.correioweb.com.br
+ad.harrenmedianetwork.com
+ad.jamba.pt
+ad.pt.doubleclick.net
+ad.terra.com.mx
+ad.terra.com
+adcell.de
+adfueling.com
+adnetwork.com.br
+ads.adpv.com
+ads.celldorado.com
+ads.dgabcsolutions.com.br
+ads.elpais.com.uy
+ads.gamavirtual.com
+ads.gazetaesportiva.net
+ads.grupozeta.es
+ads.lomadee.com
+ads.mercadoclics.com
+ads.olx.com
+ads.periodistadigital.com
+ads.prisacom.com
+adserver.clix.pt
+adsmwt.com
+adsroute.com
+
+# Tracking
+mixpanel.com
+appsflyer.com
+adjust.io
+crashlytics.com
+localytics.com
+tapjoy.com
+mobileapptracking.com
+
 # Analytics 
 analytic.pho.fm
 analyticapi.pho.fm
@@ -48,6 +85,9 @@ analytics.aweber.com
 analytics.bigcommerce.com
 analytics.brandcrumb.com
 analytics.carambo.la
+analytics.vodgc.net
+analytics.getaim.info
+analytics.servogram.io
 analytics.cincopa.com
 analytics.clickpathmedia.com
 analytics.cmg.net
