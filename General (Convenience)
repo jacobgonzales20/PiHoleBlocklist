@@ -3,8 +3,19 @@
 # Description: This is a blocklist to block is the blocklist i use on my pi hole it's for convenience so i try to not block to much stuff as sometimes some pages won't load/break etc. This also means i do miss some blocking domains.
 # Please help with collecting domains!
 
+# General
+app-measurement.com
+app.adjust.com
+app.appsflyer.com
+api.amplitude.com
+mobileapptracking.com
+
+# Google
+googleads.g.doubleclick.net
+
 # Amazon
 s.amazon-adsystem.com
+c.amazon-adsystem.com
 mads.amazon-adsystem.com
 
 # Snapchat
@@ -30,14 +41,18 @@ graph.facebook.com
 # Mobile Games
 ads.mopub.com
 ads.nexage.com
-moatads.com
-tenjin.io
 voodoo-analytics.io
-vungle.com
 splash-screen.voodoo-ads.io	
 wv.inner-active.mobi
 track.tenjin.io
 ws.tapjoyads.com
+publisher-config.unityads.unity3d.com
+connect.tapjoy.com
+z.moatads.com
+rubick.gameanalytics.com
+a.applvn.com
+api.taplytics.com
+ketads.com
 
 # Ads
 ad-pub.terra.com.br
@@ -66,15 +81,10 @@ ads.prisacom.com
 adserver.clix.pt
 adsmwt.com
 adsroute.com
-
-# Tracking
-mixpanel.com
-appsflyer.com
-adjust.io
-crashlytics.com
-localytics.com
-tapjoy.com
-mobileapptracking.com
+ads.api.vungle.com
+ads.inmobi.com
+ads.tapdaq.com
+adsvids.com
 
 # Analytics 
 analytic.pho.fm
@@ -176,3 +186,4 @@ analytics.yola.net
 analytics.yolacdn.net
 analytics.ziftsolutions.com
 analytics.twitter.com
+analytics.foresee.com
