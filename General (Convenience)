@@ -3,6 +3,20 @@
 # Description: This is a blocklist to block is the blocklist i use on my pi hole it's for convenience so i try to not block to much stuff as sometimes some pages won't load etc. This also means i do miss some blocking domains.
 # Please help with collecting domains!
 
+# Mobile Games
+ads.mopub.com
+ads.nexage.com
+moatads.com
+tenjin.io
+voodoo-analytics.io
+vungle.com
+
+# Snapchat
+analytics.snapchat.com
+app-analytics.snapchat.com
+sc-analytics.appspot.com
+snapads.com
+
 # Samsung
 apu.samsungelectronics.com
 bpu.samsungelectronics.com
