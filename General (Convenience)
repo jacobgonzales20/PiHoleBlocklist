@@ -11,7 +11,17 @@ api.amplitude.com
 mobileapptracking.com
 sb.scorecardresearch.com
 e.crashlytics.com	
-settings.crashlytics.com	
+settings.crashlytics.com
+c.spnccrzone.com
+pixel.app.returnpath.net
+static.cdn.responsys.net
+sladermobile-d.openx.net
+api.mixpanel.com
+api.taplytics.com
+events.appsflyer.com
+display.xad.com
+adcel.vrvm.com
+pippio.com
 
 # Hulu
 api.distribution.hulu.com
@@ -103,11 +113,11 @@ connect.tapjoy.com
 z.moatads.com
 rubick.gameanalytics.com
 a.applvn.com
-api.taplytics.com
 ketads.com
 auction.unityads.unity3d.com
 	
 # Ads
+ad.turn.com
 ad-pub.terra.com.br
 ad.batanga.com
 ad.correioweb.com.br
@@ -138,6 +148,7 @@ ads.api.vungle.com
 ads.inmobi.com
 ads.tapdaq.com
 adsvids.com
+ads.aerserv.com
 
 # Metrics
 metrics.harley-davidson.com
@@ -153,6 +164,7 @@ analytic.pho.fm
 analyticapi.pho.fm
 analyticcdn.globalmailer.com
 analytics-cms.whitebeard.me
+analytics.localytics.com
 analytics-production.hapyak.com
 analytics-rhwg.rhcloud.com
 analytics-scripts.cablelabs.com
