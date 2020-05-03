@@ -12,6 +12,7 @@ mobileapptracking.com
 sb.scorecardresearch.com
 e.crashlytics.com	
 settings.crashlytics.com
+reports.crashlytics.com
 c.spnccrzone.com
 pixel.app.returnpath.net
 static.cdn.responsys.net
@@ -19,15 +20,24 @@ sladermobile-d.openx.net
 api.mixpanel.com
 api.taplytics.com
 events.appsflyer.com
+t.appsflyer.com
 display.xad.com
 adcel.vrvm.com
 pippio.com
+api.branch.io
+supersonicads-a.akamaihd.net
 
 # Hulu
 api.distribution.hulu.com
 
+# Apple
+stats.gc.apple.com
+iadsdk.apple.com
+
 # Google
 googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+adservice.google.de
 
 # Reddit
 ads.reddit.com
@@ -54,10 +64,22 @@ analytics.snapchat.com
 app-analytics.snapchat.com
 sc-analytics.appspot.com
 usc.adserver.snapads.com
+euw.adserver.snapads.com
+euc.adserver.snapads.com
+ase.adserver.snapads.com
 snapads.com
+tr.snapchat.com
 
 # Facebook 
 graph.facebook.com
+b-graph.facebook.com
+a-graph.facebook.com
+
+# Instagram
+graph.instagram.com
+
+# Pinterest
+trk.pinterest.com
 
 # Playstation
 a.ad.playstation.net
@@ -115,6 +137,8 @@ rubick.gameanalytics.com
 a.applvn.com
 ketads.com
 auction.unityads.unity3d.com
+api.uca.cloud.unity3d.com
+api.gameanalytics.com
 	
 # Ads
 ad.turn.com
@@ -149,6 +173,10 @@ ads.inmobi.com
 ads.tapdaq.com
 adsvids.com
 ads.aerserv.com
+
+# Logs
+log.musical.ly
+logs.locarta.co
 
 # Metrics
 metrics.harley-davidson.com
