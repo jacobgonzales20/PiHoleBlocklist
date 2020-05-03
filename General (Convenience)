@@ -19,11 +19,16 @@ api.distribution.hulu.com
 # Google
 googleads.g.doubleclick.net
 
+# Reddit
+ads.reddit.com
+
 # Amazon
 s.amazon-adsystem.com
 c.amazon-adsystem.com
 mads.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+aax-cpm.amazon-adsystem.com
+aax-us-pdx.amazon-adsystem.com
 
 # Netflix
 ichnaea.netflix.com
@@ -250,3 +255,4 @@ analytics.digital-metric.com
 analytics.dspunion.com
 analytics.libertymutual.com.edgekey.net
 analytics.grupogodo.com-v1.edgekey.net
+analytics.htmedia.in
