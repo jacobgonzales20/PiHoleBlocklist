@@ -9,6 +9,9 @@ app.adjust.com
 app.appsflyer.com
 api.amplitude.com
 mobileapptracking.com
+sb.scorecardresearch.com
+e.crashlytics.com	
+settings.crashlytics.com	
 
 # Hulu
 api.distribution.hulu.com
@@ -48,6 +51,7 @@ upu.samsungelectronics.com
 zpu.samsungelectronics.com
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
+cpu.samsungelectronics.com	
 
 # Panasonic
 collect-us-fy2014.myhomescreen.tv
