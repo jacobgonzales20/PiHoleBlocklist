@@ -34,6 +34,24 @@ i.w.inmobi.com
 graph.accountkit.com
 alog.umeng.com
 device.zhiliaoapp.com
+api.vungle.akadns.net
+api.vungle.com
+api2.branch.io
+assets.applovin.com
+cdn2.inner-active.mobi
+d.applovin.com
+img.applovin.com
+impression.appsflyer.com
+live.chartboost.com
+ms.applovin.com
+ms.applvn.com
+prod-ms.applovin.com
+res1.applovin.com
+stage-assets.applovin.com
+stage-img.applovin.com
+stage-ms.applovin.com
+telemetry.sdk.inmobi.com
+view.adjust.com
 
 # Hulu
 api.distribution.hulu.com
@@ -150,6 +168,9 @@ ketads.com
 auction.unityads.unity3d.com
 api.uca.cloud.unity3d.com
 api.gameanalytics.com
+config.unityads.unity3d.com
+crosspromo.voodoo.io
+front-logs.voodoo-ads.io
 	
 # Ads
 ad.turn.com
@@ -184,6 +205,7 @@ ads.inmobi.com
 ads.tapdaq.com
 adsvids.com
 ads.aerserv.com
+addelivery-engine-api.voodoo-ads.io
 
 # Logs
 log.musical.ly
@@ -321,3 +343,4 @@ analytics.dspunion.com
 analytics.libertymutual.com.edgekey.net
 analytics.grupogodo.com-v1.edgekey.net
 analytics.htmedia.in
+analytics.rayjump.com
