@@ -10,7 +10,7 @@ app.appsflyer.com
 api.amplitude.com
 mobileapptracking.com
 sb.scorecardresearch.com
-e.crashlytics.com	
+e.crashlytics.com
 settings.crashlytics.com
 reports.crashlytics.com
 c.spnccrzone.com
@@ -105,7 +105,7 @@ tr.snapchat.com
 # Whatsapp
 crashlogs.whatsapp.net
 ##########################################################################
-# Facebook 
+# Facebook
 analytics.facebook.com
 graph.facebook.com
 b-graph.facebook.com
@@ -164,7 +164,7 @@ usage-us-fy2019.myhomescreen.tv
 ads.mopub.com
 ads.nexage.com
 voodoo-analytics.io
-splash-screen.voodoo-ads.io	
+splash-screen.voodoo-ads.io
 wv.inner-active.mobi
 track.tenjin.io
 ws.tapjoyads.com
@@ -184,28 +184,19 @@ front-logs.voodoo-ads.io
 # Ads
 ad.turn.com
 ad-pub.terra.com.br
-ad.batanga.com
-ad.correioweb.com.br
 ad.harrenmedianetwork.com
 ad.jamba.pt
 ad.pt.doubleclick.net
-ad.terra.com.mx
 ad.terra.com
 adcell.de
 adfueling.com
-adnetwork.com.br
 ads.adpv.com
 ads.celldorado.com
 ads.dgabcsolutions.com.br
 ads.elpais.com.uy
-ads.gamavirtual.com
 ads.gazetaesportiva.net
-ads.grupozeta.es
 ads.lomadee.com
-ads.mercadoclics.com
-ads.olx.com
 ads.periodistadigital.com
-ads.prisacom.com
 adserver.clix.pt
 adsmwt.com
 adsroute.com
@@ -1384,7 +1375,7 @@ tracking1.brandmentions.com
 tracking2.channeladvisor.com
 trackingapi.cloudapp.net
 #####################################################################################
-# Analytics 
+# Analytics
 analytic.pho.fm
 analyticapi.pho.fm
 analyticcdn.globalmailer.com
