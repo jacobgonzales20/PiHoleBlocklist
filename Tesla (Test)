@@ -5,13 +5,17 @@
 
 # IP's
 23.3.7.62
+23.3.85.234
 23.213.23.96
+104.105.99.6
 23.43.177.160
+104.193.88.77
 69.192.34.140
 104.106.51.75
 23.53.254.142
 104.103.88.123
 23.205.205.148
+104.117.118.65
 
 # Tesla Domains
 daws.tesla.services
@@ -26,17 +30,32 @@ vehicle-files.teslamotors.com
 telemetry-prd.vn.tesla.services
 telemetry-prd.ap.tesla.services
 hermes-stream-prd.vn.tesla.services
+maps-prd.go.tesla.services
 
 # Other
-www.googletagsmanager.com
-www.googleapis.com
 www.slacker.com
-www.paypal.com
 c.go-mpulse.net
 w.appzi.io
-stats.g.doubleclick.net
 i.slkimg.com
 ecsignal.slacker.com
 hwcdn.libsyn.com
 opml.radiotime.com
 track.secure.visit.com
+traffic.libsyn.com
+api.appzi.io
+ocsp.digicert.com
+maps.googleapis.com
+cdn-profiles.tunein.com
+api.slacker.com
+s3-us-west-2.amazonaws.com
+
+# From Google Browser Thats Built In
+www.googletagsmanager.com
+www.googleapis.com
+www.paypalobjects.com
+cdnjs.cloudflare.com
+www.google-analytics.com
+fonts.googleapis.com
+fonts.gstatic.com
+stats.g.doubleclick.net
+www.paypal.com
