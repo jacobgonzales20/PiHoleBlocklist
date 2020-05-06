@@ -3,20 +3,20 @@
 # Description: Tesla Domains Test List For The Website and Car
 # Please help with collecting domains! Please report any issues!
 
+# IP's
 23.3.7.62
-i.slkimg.com
 23.213.23.96
 23.43.177.160
 69.192.34.140
 104.106.51.75
+23.53.254.142
 104.103.88.123
 23.205.205.148
-c.go-mpulse.net
-www.googleapis.com
+
+# Tesla Domains
 daws.tesla.services
 x1.ap.tesla.services
-track.secure.visit.com
-stats.g.doubleclick.net
+api.mp.tesla.services
 location.teslamotors.com
 api-prd.vn.tesla.services
 connman.vn.tesla.services
@@ -26,3 +26,17 @@ vehicle-files.teslamotors.com
 telemetry-prd.vn.tesla.services
 telemetry-prd.ap.tesla.services
 hermes-stream-prd.vn.tesla.services
+
+# Other
+www.googletagsmanager.com
+www.googleapis.com
+www.slacker.com
+www.paypal.com
+c.go-mpulse.net
+w.appzi.io
+stats.g.doubleclick.net
+i.slkimg.com
+ecsignal.slacker.com
+hwcdn.libsyn.com
+opml.radiotime.com
+track.secure.visit.com
