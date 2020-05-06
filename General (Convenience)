@@ -2,7 +2,7 @@
 # Version: 5/3/20
 # Description: This is a blocklist to block is the blocklist i use on my pi hole it's for convenience so i try to not block to much stuff as sometimes some pages won't load/break etc. This also means i do miss some blocking domains.
 # Please help with collecting domains! Please report any issues!
-
+################################################################
 # General
 app-measurement.com
 app.adjust.com
@@ -58,24 +58,23 @@ abc-ads.com
 a-ads.com
 a.adroll.com
 acuityads.com
-
-
+#################################################################
 # Hulu
 api.distribution.hulu.com
-
+##################################################################
 # Apple
 stats.gc.apple.com
 iadsdk.apple.com
-
+###################################################################
 # Google
 googleads.g.doubleclick.net
 securepubads.g.doubleclick.net
 adservice.google.de
-
+####################################################################
 # Reddit
 ads.reddit.com
 events.redditmedia.com
-
+#####################################################################
 # Amazon
 s.amazon-adsystem.com
 c.amazon-adsystem.com
@@ -83,15 +82,15 @@ mads.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax-cpm.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
-
+######################################################################
 # Netflix
 ichnaea.netflix.com
 customerevents.netflix.com
 nrdp.nccp.netflix.com
-
+#######################################################################
 # Spotify
 api-tv.spotify.com
-
+########################################################################
 # Snapchat
 analytics.snapchat.com
 app-analytics.snapchat.com
@@ -102,26 +101,26 @@ euc.adserver.snapads.com
 ase.adserver.snapads.com
 snapads.com
 tr.snapchat.com
-
+#########################################################################
 # Whatsapp
 crashlogs.whatsapp.net
-
+##########################################################################
 # Facebook 
 analytics.facebook.com
 graph.facebook.com
 b-graph.facebook.com
 a-graph.facebook.com
-
+###########################################################################
 # Instagram
 graph.instagram.com
-
+############################################################################
 # Pinterest
 trk.pinterest.com
-
+#############################################################################
 # Playstation
 a.ad.playstation.net
 cs.prd.msys.playstation.net
-
+##############################################################################
 # Samsung TV
 apu.samsungelectronics.com
 bpu.samsungelectronics.com
@@ -134,7 +133,7 @@ ypu.samsungelectronics.com
 cpu.samsungelectronics.com
 ads.samsungads.com
 events.samsungads.com
-
+###############################################################################
 # Panasonic TV
 collect-us-fy2014.myhomescreen.tv
 collect-us-fy2015.myhomescreen.tv
@@ -160,7 +159,7 @@ usage-us-fy2016.myhomescreen.tv
 usage-us-fy2017.myhomescreen.tv
 usage-us-fy2018.myhomescreen.tv
 usage-us-fy2019.myhomescreen.tv
-
+################################################################################
 # Mobile Games
 ads.mopub.com
 ads.nexage.com
@@ -181,7 +180,7 @@ api.gameanalytics.com
 config.unityads.unity3d.com
 crosspromo.voodoo.io
 front-logs.voodoo-ads.io
-	
+#################################################################################
 # Ads
 ad.turn.com
 ad-pub.terra.com.br
@@ -1318,16 +1317,16 @@ adzbazar.com
 adzerk.net
 adzerk.s3.amazonaws.com
 adzones.com
-
+##################################################################################
 # Logs
 log.musical.ly
 logs.locarta.co
-
+###################################################################################
 # Metrics
 metrics.harley-davidson.com
 metrics.ikea.com
 metrics.bestbuy.com
-
+####################################################################################
 # Tracking
 tracking.chartboost.com
 tracking.cleverads.vn
@@ -1384,7 +1383,7 @@ tracking.waterfrontmedia.com
 tracking1.brandmentions.com
 tracking2.channeladvisor.com
 trackingapi.cloudapp.net
-
+#####################################################################################
 # Analytics 
 analytic.pho.fm
 analyticapi.pho.fm
