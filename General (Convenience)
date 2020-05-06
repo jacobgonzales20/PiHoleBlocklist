@@ -75,7 +75,9 @@ c.amazon-adsystem.com
 mads.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax-cpm.amazon-adsystem.com
+amazonadsi-a.akamaihd.net
 aax-us-pdx.amazon-adsystem.com
+mobileanalytics.us-east-1.amazonaws.com
 ######################################################################
 # Netflix
 ichnaea.netflix.com
