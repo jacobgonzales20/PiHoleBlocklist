@@ -1,5 +1,5 @@
 # Title: Jacob's Tesla (Test) Blocklist for Pi-hole
-# Version: 5/5/20
+# Version: 5/7/20
 # Description: Tesla Domains Test List For The Website and Car
 # Please help with collecting domains! Please report any issues!
 
@@ -18,6 +18,8 @@
 104.117.118.65
 
 # Tesla Domains
+
+va.teslamotors.com
 daws.tesla.services
 x1.ap.tesla.services
 api.mp.tesla.services
