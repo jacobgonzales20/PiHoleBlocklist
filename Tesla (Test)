@@ -49,7 +49,10 @@ ocsp.digicert.com
 maps.googleapis.com
 cdn-profiles.tunein.com
 api.slacker.com
+195vod-adaptive.akamaized.net
 s3-us-west-2.amazonaws.com
+182vod-adaptive.akamaized.net
+167vod-adaptive.akamaized.net
 
 # From Google Browser Thats Built In
 www.googletagsmanager.com
@@ -61,3 +64,10 @@ fonts.googleapis.com
 fonts.gstatic.com
 stats.g.doubleclick.net
 www.paypal.com
+
+# Vimeo For Tesla Tutorial Videos
+fresnel.vimeocdn.com
+vimeo.com
+f.vimeocdn.com
+player.vimeo.com
+i.vimeocdn.com
