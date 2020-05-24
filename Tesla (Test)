@@ -70,3 +70,7 @@ vimeo.com
 f.vimeocdn.com
 player.vimeo.com
 i.vimeocdn.com
+
+# Notes
+# hermes-prd.vn.tesla.services blocks mothership communication, meaning no phone app, media tokens will expire and media will stop working.
+# va.teslamotors.com is for firmware and map updates
